@@ -1,0 +1,9 @@
+1. take photos (multiple or single)
+
+2. property type: home, land, condo, commercial
+
+3. add min-price, max price, min bedroom, min baths, 
+
+4. property status: all, for sale, under contract, sold
+
+
